@@ -1,0 +1,10 @@
+﻿.messages {
+    background-color: dimgray;
+    padding: 5px;
+    max-width: 1000px;
+    height: auto;
+    margin-bottom: 5px;
+    color: white;
+    border-radius: 5px;
+    height: 45px;
+}
